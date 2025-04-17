@@ -1,6 +1,6 @@
 'use client'
 
-import { Title, Text, Container, Button } from '@mantine/core';
+import { Container, Button } from '@mantine/core';
 import { useButtonThemeStyle } from './lib/styles';
 
 
